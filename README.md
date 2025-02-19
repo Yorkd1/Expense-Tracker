@@ -1,30 +1,37 @@
 # Overview
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
+This project is an opportunity for me to further my skills in JavaScript programming. For this program I wanted to create an expense tracker that takes information from the user and stores it as an object that is used in a table and a graph after the information is stored.
 
-{Describe your purpose for writing this software.}
+The purpose for writing this program was to further my understanding on DOM element manipulation using JavaScript as well as utilizing a Library I had not used before to make the site more appealing and interactive.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+The following is a video demonstration on YouTube that goes over the website and a code walk through.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Expense Tracker Demo](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools used in the creation of this project were:
+* VS Code
+* VS Code: "Live Server" extenstion
 
-{Describe the programming language that you used and any libraries.}
+The following are the languages and libraries used:
+* HTML5
+* CSS
+* JavaScript
+* Chart.js
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Websites that were helpful in making this project:
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Future updates and bug fixes:
 
-- Item 1
-- Item 2
-- Item 3
+- Include more style as to combat white space on the site.
+- Add responsive design when veiwing webpage on smaller devices.
+- Add other categories for expenses.
+- Fix Chart feature will default to 0 for expenses not listed on dates correlating to other expense categories.
