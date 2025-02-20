@@ -26,6 +26,7 @@ Websites that were helpful in making this project:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
+- [CSS Tutorial](https://www.w3schools.com/css/)
 
 # Future Work
 
