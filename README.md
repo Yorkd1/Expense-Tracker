@@ -6,7 +6,7 @@ The purpose for writing this program was to further my understanding on DOM elem
 
 The following is a video demonstration on YouTube that goes over the website and a code walk through.
 
-[Expense Tracker Demo](http://youtube.link.goes.here)
+[Expense Tracker Demo](https://youtu.be/c3xMnvpvO08)
 
 # Development Environment
 

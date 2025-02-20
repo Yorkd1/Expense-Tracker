@@ -145,12 +145,12 @@ function updateChart() {
     .sort((a, b) => new Date(a.sortable) - new Date(b.sortable))
     .map(dateObj => dateObj.original);
 
-    // Generate datasets for each category
+    // Generate datasets for each category and determine color
     const datasets = Object.keys(categoryData).map((category, index) => {
         return {
             label: category,
             data: sortedDates.map(date => categoryData[category][date] || 0),
-            borderColor: getColor(index), // Assigns different colors to each line
+            borderColor: getColor(index), 
             backgroundColor: "transparent",
             borderWidth: 2,
             pointRadius: 4
